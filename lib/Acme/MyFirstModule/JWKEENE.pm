@@ -49,7 +49,6 @@ sub function1 {
 sub function2 {
 }
 
-blow grits
 
 =head1 AUTHOR
 
